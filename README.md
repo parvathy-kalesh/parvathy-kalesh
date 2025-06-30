@@ -11,6 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/parvathy-kalesh-7b4880289" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
