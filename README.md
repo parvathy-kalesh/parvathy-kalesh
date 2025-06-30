@@ -13,6 +13,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/parvathy-kalesh-7b4880289" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+    <span style="margin-left: 10px; vertical-align: middle;">parvathy-kalesh</span>
   </a>
 </p>
 
